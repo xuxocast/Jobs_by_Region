@@ -1,6 +1,4 @@
 ## This program show the most demanded jobs per location (independent of date)
-## Also provides time series of job demand by sector in the state of CA
-
 ######################################################################################################
 
 
